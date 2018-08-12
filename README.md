@@ -13,4 +13,5 @@
 ## Usage
 
 - run ./hack.sh
+- make sure your browser is using your proxy
 - refresh the page http://demineur.hugames.fr/
